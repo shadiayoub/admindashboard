@@ -15,10 +15,15 @@
     "@fullcalendar/list": "^6.1.15",
     "@fullcalendar/react": "^6.1.15",
     "@fullcalendar/timegrid": "^6.1.15",
+    "@rainbow-me/rainbowkit": "2.2.4",
     "@react-jvectormap/core": "^1.0.4",
     "@react-jvectormap/world": "^1.1.2",
     "@tailwindcss/forms": "^0.5.9",
     "@tailwindcss/postcss": "^4.0.9",
+    "@tanstack/react-query": "5.36.1",
+    "@wagmi/core": "2.15.2",
+    "@walletconnect/universal-provider": "^2.20.2",
+    "@web3modal/standalone": "2.4.3",
     "apexcharts": "^4.3.0",
     "autoprefixer": "^10.4.20",
     "flatpickr": "^4.6.13",
@@ -30,7 +35,9 @@
     "react-dom": "^19.0.0",
     "react-dropzone": "^14.3.5",
     "swiper": "^11.2.0",
-    "tailwind-merge": "^2.6.0"
+    "tailwind-merge": "^2.6.0",
+    "viem": "2.15.1",
+    "wagmi": "2.15.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -53,6 +60,17 @@
     "@react-jvectormap/world": {
       "react": "^16.8.0 || ^17 || ^18 || ^19",
       "react-dom": "^16.8.0 || ^17 || ^18 || ^19"
+    },
+    "@wagmi/core": {
+      "viem": "2.15.1"
+    },
+    "wagmi": {
+      "@wagmi/core": "2.15.2",
+      "viem": "2.15.1"
     }
+  },
+  "resolutions": {
+    "@wagmi/core": "2.15.2",
+    "viem": "2.15.1"
   }
 }
