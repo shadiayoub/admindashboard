@@ -1,0 +1,30 @@
+{
+  "Common": {
+    "welcome": "Merhaba",
+    "description": "Bu bir örnek bileşendir",
+    "sales": "Satışlar",
+    "backToDashboard": "Geri Dönüş",
+    "enterYourEmailAndPasswordToSignIn": "Email ve şifrenizi giriniz",
+    "signIn": "Giriş Yap",
+    "signInWithGoogle": "Google ile Giriş Yap",
+    "signInWithX": "X ile Giriş Yap",
+    "email": "Email",
+    "password": "Şifre",
+    "keepMeLoggedIn": "Beni Hatırla",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "dontHaveAnAccount": "Hesabınız yok mu?",
+    "signUp": "Hesap Oluştur",
+    "enterYourEmail": "Email giriniz",
+    "enterYourPassword": "Şifre giriniz",
+    "firstName": "İsim",
+    "lastName": "Soyisim",
+    "enterYourFirstName": "İsminizi giriniz",
+    "enterYourLastName": "Soyisminizi giriniz",
+    "termsAndConditions": "Hizmet Şartları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "alreadyHaveAnAccount": "Hesabınız var mı?",
+    "byCreatingAnAccountMeansYouAgreeToThe": "Hesap oluşturmak, aşağıdaki şartları kabul ettiğinize dair bir ifadedir:",
+    "signUpWithGoogle": "Google ile Kayıt Ol",
+    "signUpWithX": "X ile Kayıt Ol"
+  }
+}

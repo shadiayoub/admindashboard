@@ -1,0 +1,30 @@
+{
+    "Common": {
+      "welcome": "Welcome",
+      "description": "This is an example component",
+      "sales": "Sales",
+      "backToDashboard": "Back to dashboard",
+      "enterYourEmailAndPasswordToSignIn": "Enter your email and password to sign in!",
+      "signIn": "Sign In",
+      "signInWithGoogle": "Sign in with Google",
+      "signInWithX": "Sign in with X",
+      "email": "Email",
+      "password": "Password",
+      "keepMeLoggedIn": "Keep me logged in",
+      "forgotPassword": "Forgot password?",
+      "dontHaveAnAccount": "Don't have an account?",
+      "signUp": "Sign Up",
+      "enterYourPassword": "Enter your password",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "enterYourFirstName": "Enter your first name",
+      "enterYourLastName": "Enter your last name",
+      "termsAndConditions": "Terms and Conditions",
+      "privacyPolicy": "Privacy Policy",
+      "alreadyHaveAnAccount": "Already have an account?",
+      "byCreatingAnAccountMeansYouAgreeToThe": "By creating an account means you agree to the",
+      "signUpWithGoogle": "Sign up with Google",
+      "signUpWithX": "Sign up with X",
+      "enterYourEmail": "Enter your email"
+    }
+  }

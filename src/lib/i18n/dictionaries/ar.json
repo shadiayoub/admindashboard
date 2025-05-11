@@ -1,0 +1,29 @@
+{
+  "Common": {
+    "welcome": "مرحبا",
+    "description": "هذا مكون مثالي",
+    "sales": "المبيعات",
+    "backToDashboard": "العودة للرئيسية",
+    "enterYourEmailAndPasswordToSignIn": "أدخل بريدك الإلكتروني وكلمة المرور لتسجيل الدخول!",
+    "signIn": "تسجيل الدخول",
+    "signInWithGoogle": "تسجيل الدخول باستخدام جوجل",
+    "signInWithX": "تسجيل الدخول باستخدام X",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "keepMeLoggedIn": "حفظ تسجيل الدخول",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "dontHaveAnAccount": "ليس لديك حساب؟",
+    "signUp": "تسجيل الدخول",
+    "enterYourPassword": "أدخل كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "الاسم الأخير",
+    "enterYourFirstName": "أدخل اسمك الأول",
+    "enterYourLastName": "أدخل اسمك الأخير",
+    "termsAndConditions": "الشروط والأحكام",
+    "privacyPolicy": "سياسة الخصوصية",
+    "alreadyHaveAnAccount": "لديك حساب بالفعل؟",
+    "byCreatingAnAccountMeansYouAgreeToThe": "بإنشاء حساب يعني أنك توافق على",
+    "signUpWithGoogle": "تسجيل الدخول باستخدام جوجل",
+    "signUpWithX": "تسجيل الدخول باستخدام X"
+  }
+}

@@ -1,3 +1,4 @@
+// src/layout/AppHeader.tsx
 "use client";
 import { ThemeToggleButton } from "@/components/common/ThemeToggleButton";
 import NotificationDropdown from "@/components/header/NotificationDropdown";
@@ -7,6 +8,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React, { useState ,useEffect,useRef} from "react";
 import { WalletConnectButton } from "@/components/auth/WalletConnectButton";
+import { LanguageSwitcher } from "@/components/header/LanguageSwitcher";
 
 const AppHeader: React.FC = () => {
   const [isApplicationMenuOpen, setApplicationMenuOpen] = useState(false);
@@ -164,6 +166,7 @@ const AppHeader: React.FC = () => {
           <div className="flex items-center gap-2 2xsm:gap-3">
             {/* <!-- Dark Mode Toggler --> */}
             <ThemeToggleButton />
+            <LanguageSwitcher />
             {/* <!-- Dark Mode Toggler --> */}
             <WalletConnectButton />
            <NotificationDropdown /> 

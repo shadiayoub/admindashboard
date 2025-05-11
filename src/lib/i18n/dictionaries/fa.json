@@ -1,0 +1,30 @@
+{
+  "Common": {
+    "welcome": "خوش آمدید",
+    "description": "این یک کامپوننت نمونه است",
+    "sales": "فروش",
+    "backToDashboard": "بازگشت به داشبورد",
+    "enterYourEmailAndPasswordToSignIn": "برای ورود، ایمیل و رمز عبور خود را وارد کنید!",
+    "signIn": "ورود",
+    "signInWithGoogle": "ورود با گوگل",
+    "signInWithX": "ورود با ایکس (X)",
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "keepMeLoggedIn": "مرا به خاطر بسپار",
+    "forgotPassword": "رمز عبور را فراموش کرده‌اید؟",
+    "dontHaveAnAccount": "حساب کاربری ندارید؟",
+    "signUp": "ثبت‌نام",
+    "enterYourEmail": "ایمیل خود را وارد کنید",
+    "enterYourPassword": "رمز عبور خود را وارد کنید",
+    "firstName": "نام",
+    "lastName": "نام خانوادگی",
+    "enterYourFirstName": "نام خود را وارد کنید",
+    "enterYourLastName": "نام خانوادگی خود را وارد کنید",
+    "termsAndConditions": "قوانین و شرایط",
+    "privacyPolicy": "سیاست حفظ حریم خصوصی",
+    "alreadyHaveAnAccount": "قبلاً حساب کاربری دارید؟",
+    "byCreatingAnAccountMeansYouAgreeToThe": "با ایجاد حساب کاربری، موافقت خود را با",
+    "signUpWithGoogle": "ثبت‌نام با گوگل",
+    "signUpWithX": "ثبت‌نام با ایکس (X)"
+  }
+}
