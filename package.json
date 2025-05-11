@@ -31,6 +31,8 @@
     "autoprefixer": "^10.4.20",
     "dotenv": "^16.5.0",
     "flatpickr": "^4.6.13",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.2",
     "negotiator": "^1.0.0",
     "next": "15.2.3",
     "react": "^19.0.0",

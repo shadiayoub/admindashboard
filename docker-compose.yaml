@@ -12,6 +12,8 @@ services:
       - "27017:27017"
     volumes:
       - ./db_data:/data/db
+    networks:
+      - chaynops-network
 
   ## MongoDB admin UI
   mongo-express:
@@ -25,7 +27,10 @@ services:
       ME_CONFIG_MONGODB_ADMINPASSWORD: example
       ME_CONFIG_MONGODB_SERVER: mongo
       ME_CONFIG_BASICAUTH_USERNAME: admin
-      ME_CONFIG_BASICAUTH_PASSWORD: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: admin 
+    networks:
+      - chaynops-network
 
-volumes:
-  mongo_data:
+networks:
+  chaynops-network:
+    driver: bridge

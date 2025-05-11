@@ -24,6 +24,9 @@
     "alreadyHaveAnAccount": "لديك حساب بالفعل؟",
     "byCreatingAnAccountMeansYouAgreeToThe": "بإنشاء حساب يعني أنك توافق على",
     "signUpWithGoogle": "تسجيل الدخول باستخدام جوجل",
-    "signUpWithX": "تسجيل الدخول باستخدام X"
+    "signUpWithX": "تسجيل الدخول باستخدام X",
+    "enterYourEmail": "أدخل بريدك الإلكتروني",
+    "Latest Block": "آخر بلوك", 
+    "Orders": "الطلبات"
   }
 }

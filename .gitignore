@@ -37,6 +37,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Backups
+# Mis.
 *.zip
 tree.txt
+_Temp*
