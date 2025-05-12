@@ -1,7 +1,7 @@
 // src/app/[locale]/(admin)/validators/page.tsx
 "use client";
 import { use, useEffect, useState } from 'react';
-import { ValidatorCard } from "./_components/ValidatorCard";
+import { ValidatorCard } from "../_components/ValidatorCard";
 import { useValidatorHealth } from "@/hooks/useValidatorHealth";
 import { JsonRpcProvider, Web3Provider } from "@ethersproject/providers";
 import { Loader } from "@/components/common/Loader";
