@@ -1,3 +1,4 @@
+// src/components/charts/line/LineChartOne.tsx
 "use client";
 import React from "react";
 

@@ -1,3 +1,4 @@
+// src/components/charts/bar/BarChartOne.tsx
 "use client";
 import React from "react";
 

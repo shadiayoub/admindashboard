@@ -27,6 +27,14 @@
     "signUpWithGoogle": "Google ile Kayıt Ol",
     "signUpWithX": "X ile Kayıt Ol",
     "Latest Block": "Son Blok",
-    "Orders": "Siparişler"
+    "Orders": "Siparişler",
+    "validators": {
+      "proposed": "Propozed",
+      "sealed": "Sealed",
+      "uptime": "Uptime",
+      "active": "Active",
+      "inactive": "Inactive",
+      "validatorHealth": "Validator Health"
+    }
   }
 }

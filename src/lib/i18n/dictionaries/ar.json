@@ -27,6 +27,14 @@
     "signUpWithX": "تسجيل الدخول باستخدام X",
     "enterYourEmail": "أدخل بريدك الإلكتروني",
     "Latest Block": "آخر بلوك", 
-    "Orders": "الطلبات"
+    "Orders": "الطلبات",
+    "validators": {
+      "proposed": "مقترح",
+      "sealed": "مغلق",
+      "uptime": "الأداء",
+      "active": "فعال",
+      "inactive": "غيرفعال",
+      "validatorHealth": "صحة المعدّن"
+    }
   }
 }

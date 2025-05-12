@@ -27,6 +27,14 @@
     "signUpWithGoogle": "ثبت‌نام با گوگل",
     "signUpWithX": "ثبت‌نام با ایکس (X)",
     "Latest Block": "آخرین بلاک",
-    "Orders": "سفارشات"
+    "Orders": "سفارشات",
+    "validators": {
+      "proposed": "مقترح",
+      "sealed": "مغلق",
+      "uptime": "آداپت",
+      "active": "فعال",
+      "inactive": "غیرفعال",
+      "validatorHealth": "صحة المعدّن"
+    }
   }
 }

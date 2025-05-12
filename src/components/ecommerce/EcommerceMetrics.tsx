@@ -1,3 +1,4 @@
+// src/components/ecommerce/EcommerceMetrics.tsx
 "use client";
 import React, { useEffect, useState } from "react";
 import Badge from "../ui/badge/Badge";

@@ -4,7 +4,7 @@ Here's a comprehensive component/feature list for your **EVM IBFT/QBFT Blockchai
 
 ### **Core Dashboard Components**
 1. **Validator Management**  
-   - Real-time validator set visualization (D3.js force-directed graph)
+   ✔️ Real-time validator set visualization (D3.js force-directed graph)
    - Add/remove validators with multi-sig approval workflow
    - Staking metrics (commit seals, proposed blocks)
    - Slashing history & penalty tracking

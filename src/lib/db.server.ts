@@ -2,7 +2,7 @@
 import { Db, MongoClient } from 'mongodb';
 import { BlockModel } from './models/block.model';
 
-const client = new MongoClient(process.env.MONGODB_URI!);
+const client = new MongoClient(process.env.MONGO_URI!);
 
 class DBClient {
   private static instance: DBClient;
@@ -10,7 +10,7 @@ class DBClient {
   private _db: Db | null = null;
 
   private constructor() {
-    this.client = new MongoClient(process.env.MONGODB_URI!);
+    this.client = new MongoClient(process.env.MONGO_URI!);
   }
 
   static getInstance() {

@@ -27,6 +27,14 @@
       "signUpWithX": "Sign up with X",
       "enterYourEmail": "Enter your email",
       "Latest Block": "Latest Block",
-      "Orders": "Orders"
+      "Orders": "Orders",
+      "validators": {
+        "proposed": "Proposed",
+        "sealed": "Sealed",
+        "uptime": "Uptime",
+        "active": "Active",
+        "inactive": "Inactive",
+        "validatorHealth": "Validator Health"
+      }
     }
   }

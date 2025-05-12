@@ -11,6 +11,7 @@
     "i18n:watch": "i18next --config i18next.config.js --watch"
   },
   "dependencies": {
+    "@ethersproject/providers": "^5.8.0",
     "@formatjs/intl-localematcher": "^0.6.1",
     "@fullcalendar/core": "^6.1.15",
     "@fullcalendar/daygrid": "^6.1.15",
@@ -24,11 +25,14 @@
     "@tailwindcss/forms": "^0.5.9",
     "@tailwindcss/postcss": "^4.0.9",
     "@tanstack/react-query": "5.36.1",
+    "@types/d3": "^7.4.3",
     "@wagmi/core": "2.15.2",
     "@walletconnect/universal-provider": "^2.20.2",
     "@web3modal/standalone": "2.4.3",
     "apexcharts": "^4.3.0",
     "autoprefixer": "^10.4.20",
+    "clsx": "^2.1.1",
+    "d3": "^7.9.0",
     "dotenv": "^16.5.0",
     "flatpickr": "^4.6.13",
     "mongodb": "^6.16.0",
