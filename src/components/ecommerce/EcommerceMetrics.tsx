@@ -22,7 +22,7 @@ export const EcommerceMetrics = () => {
     
     const fetchData = async () => {
       try {
-        const res = await fetch('/en/api/latest-block');
+        const res = await fetch('/api/latest-block');
         
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`);

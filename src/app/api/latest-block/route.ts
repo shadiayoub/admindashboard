@@ -1,4 +1,4 @@
-// src/app/[locale]/api/latest-block/route.ts
+// src/app/api/latest-block/route.ts
 import { MongoClient } from 'mongodb';
 import { NextResponse } from 'next/server';
 
